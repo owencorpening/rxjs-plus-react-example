@@ -1,0 +1,7 @@
+{
+  "generator-react-webpack": {
+    "appName": "rxjsPlusReactExample",
+    "style": "less",
+    "postcss": false
+  }
+}
