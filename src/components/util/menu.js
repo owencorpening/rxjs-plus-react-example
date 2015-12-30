@@ -8,7 +8,7 @@ class Menu extends React.Component {
   render() {
     return (
       <div className='add-movie-div'>
-        <button className='add-movie-button'>Add Movie</button>
+        <button className='add-movie-button' onClick={this.props.addMovieCallback}>Add Movie</button>
       </div>
     );
   }
